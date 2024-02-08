@@ -5,7 +5,7 @@ accounts:
   message: "Hello from loan service using git config"
   contactDetails:
     email: "devjangir_qa@gmail.com"
-    name: "Dev Jangir"
+    name: "Devdutt Jangir"
   onCallSupports:
     - "8989898989"
     - "9898989898"
