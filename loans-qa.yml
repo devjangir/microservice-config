@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Hello from loan service"
+  message: "Hello from loan service using git config"
   contactDetails:
     email: "devjangir_qa@gmail.com"
     name: "Dev Jangir"
