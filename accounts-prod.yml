@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hello from account prod service"
+  message: "Hello from account prod service using Rabbit MQ"
   contactDetails:
     email: "devjangir_prod@gmail.com"
     name: "Dev Jangir"
