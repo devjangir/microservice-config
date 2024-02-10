@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Hello from loan production service"
+  message: "Hello from loan prod service and using Rabbit MQ"
   contactDetails:
     email: "devjangir_prod@gmail.com"
     name: "Dev Jangir"
