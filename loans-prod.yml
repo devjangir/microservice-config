@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 loans:
-  message: "Hello from loan service"
+  message: "Hello from loan prod service"
   contactDetails:
-    email: "devjangir_prod@gmail.com"
+    email: "devjangir@gmail.com"
     name: "Dev Jangir"
   onCallSupports:
     - "8989898989"
