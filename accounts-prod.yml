@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hello from account production service"
+  message: "Hello from account prod service"
   contactDetails:
-    email: "devjangir@gmail.com"
+    email: "devjangir_prod@gmail.com"
     name: "Dev Jangir"
   onCallSupports:
     - "8989898989"
