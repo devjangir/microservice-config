@@ -6,3 +6,8 @@ eureka:
       defaultZone: http://localhost:8070/eureka/
   instance:
     prefer-ip-address: true
+info:
+  app:
+    name: "productservice using config server"
+    description: "Product Service"
+    version: "1.0"
